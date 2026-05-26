@@ -64,9 +64,15 @@ I specialize in **High-Performance Computing, Machine Learning, and Scalable Sys
 ---
 
 ### 📊 GitHub Activity
-![Satyank's Stats](https://github-readme-stats.vercel.app/api?username=satyankshekhar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyankshekhar&layout=compact&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyankshekhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Satyank's GitHub Stats" height="175px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyankshekhar&layout=compact&theme=radical" alt="Top Languages" height="175px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyankshekhar&theme=radical" alt="GitHub Streak" />
+</p>
 ---
 
 ### 📫 Contact Info
