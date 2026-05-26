@@ -66,13 +66,19 @@ I specialize in **High-Performance Computing, Machine Learning, and Scalable Sys
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyankshekhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Satyank's GitHub Stats" height="175px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyankshekhar&layout=compact&theme=radical" alt="Top Languages" height="175px" />
+  <!-- Dynamic Activity Graph: 100% Stable and Sleek -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyankshekhar&theme=react-dark&area=true&category=commits" alt="Satyank's Contribution Graph" width="100%" />
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyankshekhar&theme=radical" alt="GitHub Streak" />
+  <!-- Classy Top Languages Pie/Bar chart from a highly stable alternative provider -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=satyankshekhar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+  <!-- Profile Summary Card with clean borders -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=satyankshekhar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Satyank's Stats" height="180px" />
 </p>
+
 ---
 
 ### 📫 Contact Info
