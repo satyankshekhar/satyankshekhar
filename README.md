@@ -11,7 +11,7 @@ I specialize in **High-Performance Computing, Machine Learning, and Scalable Sys
 [![Portfolio](https://img.shields.io/badge/Website-satyank.me-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satyankshekhar.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyankshekhar)
 [![Twitter/X](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/satyankshekhar)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/satyankshekhar)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/satyankshekhar21cs16)
 
 ---
 
