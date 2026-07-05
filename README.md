@@ -1,6 +1,6 @@
 # Hi there, I'm Satyank Shekhar 👋
 
-### M.Tech CSE @ SVNIT Surat • GATE CS AIR 2741 • Aspiring Software Engineer
+### M.Tech CSE @ SVNIT Surat • Aspiring Software Engineer
 
 I enjoy building **AI-powered software systems**, **developer tools**, and **scalable backend applications**. My work focuses on combining modern software engineering practices with **LLMs**, **autonomous agents**, **computer vision**, and **parallel computing** to solve practical problems.
 
